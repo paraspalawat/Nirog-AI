@@ -51,15 +51,7 @@
 - 📜 **Health History** – Your chat stays saved on your device (LocalStorage).
 - 🛡️ **Privacy First** – No personal data collected. Ever.
 
----
 
-## 📸 Screenshots
-
-| Home Page | AI Chat | Local Language Output |
-|-----------|---------|------------------------|
-| ![Home](https://user-images.githubusercontent.com/home.png) | ![Chat](https://user-images.githubusercontent.com/chat.png) | ![Translation](https://user-images.githubusercontent.com/lang.png) |
-
----
 
 
 
