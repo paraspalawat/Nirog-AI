@@ -2,7 +2,7 @@
 
 **Bringing Accessible, AI-Powered Healthcare Advice to Every Indian, in Their Own Language.**
 
-![NirogAI Banner](https://github.com/paraspalawat/Nirog-AI/blob/main/A_digital_vector_graphic_banner_showcases_NirogAI,.png?raw=true).
+![NirogAI Banner](https://github.com/paraspalawat/Nirog-AI/blob/main/A_digital_vector_graphic_banner_showcases_NirogAI%2C.png.jpeg).
 
 
 
