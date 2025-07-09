@@ -2,7 +2,9 @@
 
 **Bringing Accessible, AI-Powered Healthcare Advice to Every Indian, in Their Own Language.**
 
-![NirogAI Banner](https://chatgpt.com/s/m_686e90f1e2088191acc76dbf46a8dc3a)
+![NirogAI Banner](https://github.com/your-username/your-repo-name/blob/main/A_digital_vector_graphic_banner_showcases_NirogAI,.png?raw=true).
+
+
 
 ---
 
